@@ -6,6 +6,8 @@ This repository contains the presentation materials for the "Haskell - A Peek In
 
 > In this talk we'll take a tour around the Haskell language and see what makes Haskell an all-in functional programming language. We'll look at both Haskell's strengths and its weaknesses. We'll look at what sets coding in Haskell apart from coding in languages like F#, or coding FP-style in languages like JavaScript. We'll also dispel the myth that Haskell is not suitable for "normal" software. By the end of the talk, your peek inside Haskell's ivory tower will hopefully entice you to explore its potential further.
 
+Video: [NDC Sydney 2018](https://www.youtube.com/watch?v=TkBOozeNtiM)
+
 ## Recommended Reading
 The [Haskell Programming from First Principles][1] book is highly recommended as a comprehensive introduction to functional programming in Haskell, and has very complete chapters that walk you through functors, applicatives and monads.
 
